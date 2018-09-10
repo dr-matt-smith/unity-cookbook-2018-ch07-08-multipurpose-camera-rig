@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch06-08-multipurpose-camera-rig
+# unity-cookbook-2018-ch07-08-multipurpose-camera-rig
